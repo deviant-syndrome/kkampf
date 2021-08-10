@@ -1,0 +1,35 @@
+{
+  "slug": "Kkampf",
+  "name": "Kkampf",
+  "version": "1.0.0",
+  "license": "0BSD",
+  "brand": "hexensoldat",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Glider",
+      "name": "Glider",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "RMod",
+      "name": "RMod",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "HADSR",
+      "name": "HADSR",
+      "description" : "",
+      "tags" : []
+    }
+  ]
+}
