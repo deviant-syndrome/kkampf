@@ -13,7 +13,7 @@ So, this is my first custom VCV rack module and, coincidentally, first ever atte
 #### HK-2. R-Mod
 Simple [ringmodulator](https://en.wikipedia.org/wiki/Ring_modulation) with some very primitive output saturation, as ring modulation product
  can go sufficiently beyond VCV Rack's voltage
- standards.
+ standards. You can learn more about this plugin development in my [tech-blog post](https://deviant-syndrome.github.io/2020/VCV_RMod_Notes/)
  
 #### HK-3. HADSR 
 Well. That's an odd one. With me really wanting to add a simple drum machine swing to my sequences, and not coming up with anything better than
